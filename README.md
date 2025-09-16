@@ -1,18 +1,22 @@
 <div align="center">
 
-# Halo, saya Iqbal Alamsyah S 👋
+# Hi there, I'm Iqbal Alamsyah 👋
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iqbalamsyahs&label=Profile%20Views&color=blueviolet&style=flat-square" alt="iqbalamsyahs profile views" />
+</p>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### A Full-Stack Web Developer specializing in Laravel, Vue.js React.js & Next.js
+### A Full-Stack Web Developer specializing in Laravel, Vue.js, React.js & Next.js
 
-<p>Saya adalah seorang pengembang web yang bersemangat dari Indonesia dengan fokus pada pembuatan aplikasi web yang fungsional dan mudah digunakan. Saya senang belajar teknologi baru dan berkolaborasi dalam proyek-proyek menarik.</p>
+<p>I am a passionate web developer from Indonesia with a focus on creating functional and user-friendly web applications. I love learning new technologies and collaborating on exciting projects.</p>
 
 </div>
 
 ---
 
-### 🔧 Bahasa & Teknologi yang Saya Kuasai
+### 🔧 **Languages and Tools**
 
 <p align="center">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -49,16 +53,16 @@
 
 ---
 
-### 📊 **Statistik GitHub Saya**
+### 📊 **My GitHub Stats**
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=iqbalamsyahs&show_icons=true&theme=tokyonight&locale=id&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=iqbalamsyahs&show_icons=true&theme=tokyonight&locale=en&hide_border=true"
     alt="iqbalamsyahs's GitHub Stats"
     height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalamsyahs&layout=compact&theme=tokyonight&locale=id&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalamsyahs&layout=compact&theme=tokyonight&locale=en&hide_border=true"
     alt="Top Languages"
     height="150"
   />
@@ -66,8 +70,7 @@
 
 ---
 
-
-### 📫 **Hubungi Saya**
+### 📫 **Connect with me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iqbal-alamsyah-63808b1a5" target="_blank">
@@ -76,7 +79,7 @@
   <a href="https://www.instagram.com/iqbalamsyahs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a> &nbsp;
-  <a href="mailto:ialamsyah92@gmail" target="_blank">
+  <a href="mailto:ialamsyah92@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
