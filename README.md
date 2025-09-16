@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, saya Iqbal Amsyah S 👋
+# Halo, saya Iqbal Alamsyah S 👋
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
