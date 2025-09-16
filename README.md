@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="45" height="45"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -66,53 +66,17 @@
 
 ---
 
-### 📌 **Proyek Unggulan Saya**
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">E-Commerce Laravel Vue</h3>
-      <div align="center">
-        <a href="https://github.com/iqbalamsyahs/e-commerce-laravel-vue" target="_blank">
-          <img src="https://raw.githubusercontent.com/iqbalamsyahs/e-commerce-laravel-vue/main/public/preview.png" alt="E-Commerce" width="300">
-        </a>
-        <p>
-          <a href="https://github.com/iqbalamsyahs/e-commerce-laravel-vue" target="_blank">
-            <b>Lihat Proyek</b>
-          </a>
-        </p>
-        <p>Aplikasi e-commerce lengkap yang dibangun dengan backend Laravel dan frontend Vue.js.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Company Profile</h3>
-      <div align="center">
-        <a href="https://github.com/iqbalamsyahs/company-profile" target="_blank">
-          <img src="https://via.placeholder.com/400x250.png/2D3748/FFFFFF?text=Project+Preview" alt="Company Profile" width="300">
-        </a>
-        <p>
-          <a href="https://github.com/iqbalamsyahs/company-profile" target="_blank">
-            <b>Lihat Proyek</b>
-          </a>
-        </p>
-        <p>Sebuah website profil perusahaan yang modern dan responsif.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📫 **Hubungi Saya**
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/iqbal-alamsyah-63808b1a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> &nbsp;
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/iqbalamsyahs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a> &nbsp;
-  <a href="mailto:emailanda@contoh.com" target="_blank">
+  <a href="mailto:ialamsyah92@gmail" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
